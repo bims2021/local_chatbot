@@ -63,9 +63,9 @@ chatbot = ChatbotInterface(
 
 **Example Interaction**:
 User: Hello, how are you?
-Bot: I'm doing well, thank you! How are you today?
+Bot: I'm doing well.
 
-User: I'm good too. Can you tell me about AI?
+User: Can you tell me about AI?
 Bot: Artificial Intelligence is a field of computer science that focuses on creating machines that can perform tasks that typically require human intelligence.
 
 User: What are some applications?
